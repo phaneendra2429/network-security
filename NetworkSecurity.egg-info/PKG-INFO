@@ -1,8 +1,8 @@
 Metadata-Version: 2.4
 Name: NetworkSecurity
 Version: 0.0.1
-Author: Krish Naik
-Author-email: krishnaik06@gmail.com
+Author: Phani
+Author-email: phaneendraganji3@gmail.com
 License-File: LICENSE
 Requires-Dist: python-dotenv
 Requires-Dist: pandas
