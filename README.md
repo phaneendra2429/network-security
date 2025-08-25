@@ -6,19 +6,19 @@ This repository contains a **complete MLOps pipeline** implemented from scratch,
 
 ## 📑 Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Architecture](#architecture)
-3. [Project Setup](#project-setup)
-4. [Data Ingestion](#data-ingestion)
-5. [Data Validation](#data-validation)
-6. [Data Transformation](#data-transformation)
-7. [Model Training & Evaluation](#model-training--evaluation)
-8. [Experiment Tracking (MLflow)](#experiment-tracking-mlflow)
-9. [Model Pusher (Deployment)](#model-pusher-deployment)
-10. [Logging & Exception Handling](#logging--exception-handling)
-11. [Packaging & Setup](#packaging--setup)
-12. [How to Run the Pipeline](#how-to-run-the-pipeline)
-13. [Future Enhancements](#future-enhancements)
+1. [Project Overview](#-project-overview)
+2. [Architecture](#-architecture)
+3. [Project Setup](#-project-setup)
+4. [Data Ingestion](#-data-ingestion)
+5. [Data Validation](#-data-validation)
+6. [Data Transformation](#-data-transformation)
+7. [Model Training & Evaluation](#-model-training--evaluation)
+8. [Experiment Tracking (MLflow)](#-experiment-tracking-mlflow)
+9. [Model Pusher (Deployment)](#-model-pusher-deployment)
+10. [Logging & Exception Handling](#-logging--exception-handling)
+11. [Packaging & Setup](#-packaging--setup)
+12. [How to Run the Pipeline](#-how-to-run-the-pipeline)
+13. [Future Enhancements](#-future-enhancements)
 
 ---
 
